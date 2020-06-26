@@ -16,7 +16,7 @@ public class TestCase2 {
 	
 
 	@Test
-	public void helloWorld() {
+	public void SecondTestInTestCase2() {
 		System.out.println("sup sister");
 	}
 	
